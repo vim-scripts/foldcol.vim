@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1161
+
+foldcol.vim is a plugin which implements two maps:
+
+ctrl-v move \fc  : select a visual block, then \fc will fold the region away
+
+\fc : when not in visual-block mode (ie. in normal mode), a \fc will undo the visual-block folds produced by foldcol.vim.
+
+(alpha/beta version available at http://mysite.verizon.net/astronaut/vim/index.html#FOLDCOL)
+
